@@ -1,5 +1,5 @@
 # derive
-Calculate the derive
+Calculate the derivative of a function
 
 ## Build
 - Run `./scripts/build.sh`
