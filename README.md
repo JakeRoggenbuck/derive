@@ -1,4 +1,5 @@
 # derive
+Calculate the derivative of a function non-algebraically
 
 ## Build
 - Run `./scripts/build.sh`
