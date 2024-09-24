@@ -1,6 +1,8 @@
 # derive
 Calculate the derivative of a function non-algebraically
 
+[![Rust](https://img.shields.io/github/actions/workflow/status/jakeroggenbuck/derive/c-cpp.yml?branch=main&style=for-the-badge)](https://github.com/JakeRoggenbuck/derive/actions)
+
 ## Build
 - Run `./scripts/build.sh`
 
